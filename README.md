@@ -3,7 +3,7 @@
 Zepto is a minimalist JavaScript library for modern browsers with a
 largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
 
-See [zeptojs.com][] for an extended introduction, downloads
+See [zeptojs.com][] for an extended introduction, downloads.
 and documentation.
 
 Zepto.js is licensed under the terms of the MIT License
